@@ -1,0 +1,10 @@
+fiftyone
+torch
+gdown
+transformers
+open-clip-torch
+accelerate
+einops
+pyvips-binary 
+pyvips
+pillow
