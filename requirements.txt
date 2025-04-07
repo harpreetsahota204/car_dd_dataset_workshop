@@ -9,3 +9,5 @@ einops
 pyvips-binary 
 pyvips
 pillow
+ipython
+jupyter
