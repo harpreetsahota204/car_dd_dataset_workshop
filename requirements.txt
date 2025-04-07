@@ -1,4 +1,5 @@
 fiftyone
+pycocotools
 torch
 gdown
 transformers
