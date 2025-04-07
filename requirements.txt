@@ -11,3 +11,4 @@ pyvips
 pillow
 ipython
 jupyter
+umap-learn
