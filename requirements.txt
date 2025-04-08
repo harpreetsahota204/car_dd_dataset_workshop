@@ -13,3 +13,4 @@ ipython
 jupyter
 umap-learn
 ultralytics
+qwen-vl-utils
