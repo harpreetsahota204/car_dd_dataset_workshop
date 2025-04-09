@@ -1,5 +1,5 @@
 fiftyone
-"numpy<=2.1.0"
+numpy<=2.1.0
 pycocotools
 torch
 gdown
