@@ -1,5 +1,6 @@
 #  Installing FiftyOne
 
+The full installation guide, plus troubleshooting can be found [here.](https://docs.voxel51.com/getting_started/install.html)
 
 ## Step 1: Install Miniconda or Anaconda
 Conda is the recommended environment manager. If you don't already have Conda installed:
