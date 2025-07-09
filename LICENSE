@@ -1,3 +1,9 @@
+NOTE: The license applies to the code and educational content in the notebooks. 
+
+The CAR-DD dataset has a custom license, which can be found here: https://cardd-ustc.github.io/docs/CarDD_license.pdf
+
+This workshop fine-tunes a model from Ultralutics on this dataset, that resulting model must follow with Ultralytics license which is AGPL-3.0
+
                                  Apache License
                            Version 2.0, January 2004
                         http://www.apache.org/licenses/
