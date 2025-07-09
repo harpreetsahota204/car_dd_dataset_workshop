@@ -172,3 +172,13 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+.pt
+
+.ts
+
+.zip
+
+/car_damage_segmentation
+
+/CarDD_release
